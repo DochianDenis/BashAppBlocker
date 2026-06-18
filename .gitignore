@@ -1,0 +1,10 @@
+# Editor swap and temporary files
+.*.swp
+*.swp
+.kate-swp
+.*.kate-swp
+*.kate-swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
